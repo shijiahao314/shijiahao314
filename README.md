@@ -1,12 +1,13 @@
 # <div align="center" ><👋Hello, World! /></div>
 
-<div align="center" >
-<font size="6">I am ShiJiahao</font>
-
-<font size="4">🎓 Master of Computer Technology at [BUPT](http://scs.bupt.edu.cn/)</font>
+<div align="center">
+  <span style="font-size: 30px; ">I'm Shijiahao</span><br>
+  <span style="font-size: 15px; ">🎓 Master of Computer Technology at [BUPT](http://scs.bupt.edu.cn/)</span>
 </div>
 
-<div align="center"><img src="images/dev-working.gif" width="60%"></div>
+<br/>  
+
+<div align="center"><img src="images/dev-working.gif" width="40%"></div>
 
 <br/>  
 
