@@ -1,6 +1,7 @@
 <h1 align="center"><👋Hello, World! /></h1>
 
 I'm Shi Jiahao, **backend developer**
+
 🎓 Master of Computer Technology at _<a href="http://scs.bupt.edu.cn/">BUPT</a>_
 
 ### Things I code with
