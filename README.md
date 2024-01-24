@@ -1,59 +1,59 @@
 <h1 align="center"><👋Hello, World! /></h1>
-<h2 align="center">I'm Shi Jiahao</h2>
-<h4 align="center">
 
-🎓 Master of Computer Technology at [BUPT](http://scs.bupt.edu.cn/)
+I'm Shi Jiahao, **backend developer**
+🎓 Master of Computer Technology at _<a href="http://scs.bupt.edu.cn/">BUPT</a>_
 
-</h4>
+### Things I code with
 
-<br/>  
+- Frontend
+    <p>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=React&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white">
+    </p>
 
-<div align="center"><img src="images/dev-working.gif" width="40%"></div>
+- Backend
+    <p>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=OpenJDK&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
+    </p>
 
-<br/>  
+- DevOps
+    <p>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+    </p>
 
-## My Skill Set
+- IDEs and tools
+    <p>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Codeium-09B6A2?style=flat-square&logo=Codeium&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Intellij_IDEA-000000?style=flat-square&logo=Intellij%20IDEA&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Apifox-F44A53?style=flat-square&logo=Apifox&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=Obsidian&logoColor=white">
+    </p>
 
-<table><tr><td valign="top" width="33%">
-
-### Backend
-
-<div align="center">  
-<img style="margin: 10px" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40" /> 
-<img style="margin: 10px" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" /> 
-<img style="margin: 10px" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" /> 
-</div></td><td valign="top" width="33%">
-
-### DevOps
+### Github stats
 
 <div align="center">
-<img style="margin: 10px" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="40" /> 
-<img style="margin: 10px" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="40" /> 
-<img style="margin: 10px" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="40" /> 
-<img style="margin: 10px" alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="40" /> 
-</div></td><td valign="top" width="33%">
-
-### IDEs
-
-<div align="center">
-<img style="margin: 10px" alt="IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="40" /> 
-<img style="margin: 10px" alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40" /> 
-</div></td></tr></table>
-
-<br/>
-
-## Github Stats
-
-<div align="center">
-
-[![Shijiahao's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijiahao314)](https://github.com/anuraghazra/github-readme-stats)
-
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shijiahao314&theme=tokyonight" alt="shijiahao314" />
-
-![Profile views](https://komarev.com/ghpvc/?username=shijiahao314e&label=Profile+views&color=blue)
-
+<img style="" width="50%" alt="shijiahao314" src="https://github-readme-streak-stats.herokuapp.com/?user=shijiahao314&theme=tokyonight" />
 </div>
 
-<div align="center"><img src="images/dancing.gif"></div>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/></p>
+### Good bye
+
+<div align="center">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<img alt="Never Gonna Give You Up" src="images/dancing.gif" >
+</a>
+</div>
