@@ -2,7 +2,7 @@
 
 I'm Shi Jiahao, **backend developer**
 
-🎓 Master of Computer Technology at _<a href="http://scs.bupt.edu.cn/">BUPT</a>_
+🎓 Master's student in Computer Technology at _<a href="http://scs.bupt.edu.cn/">BUPT</a>_
 
 ### Things I code with
 
@@ -30,6 +30,7 @@ I'm Shi Jiahao, **backend developer**
 
 - DevOps
     <p>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=Arch%20Linux&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
