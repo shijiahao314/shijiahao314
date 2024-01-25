@@ -1,4 +1,4 @@
-<h1 align="center"><👋Hello, World! /></h1>
+<h1 align="center">👋Hello World!</h1>
 
 I'm Shi Jiahao, **backend developer**
 
@@ -49,7 +49,7 @@ I'm Shi Jiahao, **backend developer**
 ### Github stats
 
 <div align="center">
-<img style="" width="50%" alt="shijiahao314" src="https://github-readme-streak-stats.herokuapp.com/?user=shijiahao314&theme=tokyonight" />
+<img style="" width="50%" alt="shijiahao314" src="https://github-readme-streak-stats.herokuapp.com/?user=shijiahao314&theme=tokyonight&hide_border=true" />
 </div>
 
 ### Good bye
