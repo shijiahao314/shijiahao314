@@ -31,6 +31,9 @@ I'm Shi Jiahao, **backend developer**
 - DevOps
     <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=Arch%20Linux&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
@@ -45,6 +48,8 @@ I'm Shi Jiahao, **backend developer**
     <img alt="Static Badge" src="https://img.shields.io/badge/Apifox-F44A53?style=flat-square&logo=Apifox&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=Obsidian&logoColor=white">
     </p>
+
+> 以上图标来自网站 _<a href="https://simpleicons.org">SimpleIcons</a>_，并使用 _<a href="https://shields.io/badges">Shields.io</a>_ 构建
 
 ### Github stats
 
