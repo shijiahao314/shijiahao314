@@ -2,7 +2,9 @@
 
 I'm Shi Jiahao, **backend developer**
 
-🎓 Master's student in Computer Technology at _<a href="http://scs.bupt.edu.cn/">BUPT</a>_
+🎓 Master's student in Computer Technology at _<a href="https://scs.bupt.edu.cn/">BUPT</a>_
+
+_<a href="https://www.baidu.com">Baidu</a>_ ERNIE Bot team - Backend R&D Intern
 
 ### Things I code with
 
