@@ -4,7 +4,9 @@ I'm Shi Jiahao, **backend developer**
 
 🎓 Master's student in Computer Technology at _<a href="https://scs.bupt.edu.cn/">BUPT</a>_
 
-_<a href="https://www.baidu.com">Baidu</a>_ ERNIE Bot team - Backend R&D Intern
+_<a href="https://www.tencent.com">Tencent</a>_ AMS team backend intern
+
+Former _<a href="https://www.baidu.com">Baidu</a>_ ERNIE-Bot team backend R&D intern
 
 ### Things I code with
 
