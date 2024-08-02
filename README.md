@@ -24,7 +24,7 @@ Former _<a href="https://www.baidu.com">Baidu</a>_ ERNIE-Bot team backend R&D in
 
 - Backend
     <p>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=OpenJDK&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
