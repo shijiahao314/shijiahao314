@@ -4,7 +4,7 @@ I'm Shi Jiahao, **backend developer**
 
 🎓 Master's student in Computer Technology at _<a href="https://scs.bupt.edu.cn/">BUPT</a>_
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Tencent-1EBAFC?style=flat-square&logo=tencentqq&logoColor=white"> _<a href="https://www.tencent.com">Tencent</a>_ AMS team backend intern
+<img alt="Static Badge" src="https://img.shields.io/badge/Tencent-1EBAFC?style=flat-square&logo=tencentqq&logoColor=white"> Former _<a href="https://www.tencent.com">Tencent</a>_ AMS team backend intern
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Baidu-2932E1?style=flat-square&logo=baidu&logoColor=white"> Former _<a href="https://www.baidu.com">Baidu</a>_ ERNIE-Bot team backend R&D intern
 
