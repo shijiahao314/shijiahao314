@@ -55,7 +55,7 @@ I'm Shi Jiahao, **backend developer**
     <img alt="Static Badge" src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=Obsidian&logoColor=white">
     </p>
 
-> 以上图标来自网站 _<a href="https://simpleicons.org">SimpleIcons</a>_，并使用 _<a href="https://shields.io/badges">Shields.io</a>_ 构建
+> The icons above are from the website <a href="https://simpleicons.org">SimpleIcons</a>, and built using <a href="https://shields.io/badges">Shields.io</a>.
 
 ### Github stats
 
